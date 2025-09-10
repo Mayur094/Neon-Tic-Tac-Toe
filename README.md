@@ -1,4 +1,4 @@
-# tic_tac_toe_game_project4
+# Neon Tic Tac Toe
 
 A new Flutter project.
 
